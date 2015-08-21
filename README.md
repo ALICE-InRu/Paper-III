@@ -15,7 +15,7 @@ Many heuristic methods have been proposed for the job-shop scheduling problem. D
               for a Heuristic Solution Method},
   url       = {http://dx.doi.org/10.1007/978-3-642-34413-8_36},
   publisher = {Springer Berlin Heidelberg},
-  author    = {Ingimundardottir, Helga and Runarsson, ThomasPhilip},
+  author    = {Ingimundardottir, Helga and Runarsson, Thomas Philip},
   pages     = {408-412},
   language  = {English}
 }
