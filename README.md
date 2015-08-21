@@ -5,17 +5,18 @@ Many heuristic methods have been proposed for the job-shop scheduling problem. D
 ## Citation
 ```
 @incollection{InRu12
-  year={2012},
-  isbn={978-3-642-34412-1},
-  booktitle={Learning and Intelligent Optimization},
-  series={Lecture Notes in Computer Science},
-  editor={Hamadi, Youssef and Schoenauer, Marc},
-  doi={10.1007/978-3-642-34413-8_36},
-  title={Determining the Characteristic of Difficult Job Shop Scheduling Instances for a Heuristic Solution Method},
-  url={http://dx.doi.org/10.1007/978-3-642-34413-8_36},
-  publisher={Springer Berlin Heidelberg},
-  author={Ingimundardottir, Helga and Runarsson, ThomasPhilip},
-  pages={408-412},
-  language={English}
+  year      =  {2012},
+  isbn      = {978-3-642-34412-1},
+  booktitle = {Learning and Intelligent Optimization},
+  series    = {Lecture Notes in Computer Science},
+  editor    = {Hamadi, Youssef and Schoenauer, Marc},
+  doi       = {10.1007/978-3-642-34413-8_36},
+  title     = {Determining the Characteristic of Difficult Job Shop Scheduling Instances 
+              for a Heuristic Solution Method},
+  url       = {http://dx.doi.org/10.1007/978-3-642-34413-8_36},
+  publisher = {Springer Berlin Heidelberg},
+  author    = {Ingimundardottir, Helga and Runarsson, ThomasPhilip},
+  pages     = {408-412},
+  language  = {English}
 }
 ```
