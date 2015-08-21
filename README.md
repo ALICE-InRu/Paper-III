@@ -4,8 +4,8 @@ Many heuristic methods have been proposed for the job-shop scheduling problem. D
 
 ## Citation
 ```
-@incollection{InRu12
-  year      =  {2012},
+@incollection{InRu12,
+  year      = {2012},
   isbn      = {978-3-642-34412-1},
   booktitle = {Learning and Intelligent Optimization},
   series    = {Lecture Notes in Computer Science},
